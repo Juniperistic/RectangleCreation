@@ -1,0 +1,21 @@
+C:\Users\miran\source\repos\ch10ex3\ch10ex3\obj\Debug\ch10ex3.csproj.AssemblyReference.cache
+C:\Users\miran\source\repos\ch10ex3\ch10ex3\obj\Debug\ch10ex3.csproj.CoreCompileInputs.cache
+C:\Users\miran\source\repos\ch10ex3\ch10ex3\bin\Debug\ch10ex3.exe.config
+C:\Users\miran\source\repos\ch10ex3\ch10ex3\bin\Debug\ch10ex3.exe
+C:\Users\miran\source\repos\ch10ex3\ch10ex3\bin\Debug\ch10ex3.pdb
+C:\Users\miran\source\repos\ch10ex3\ch10ex3\obj\Debug\ch10ex3.exe
+C:\Users\miran\source\repos\ch10ex3\ch10ex3\obj\Debug\ch10ex3.pdb
+C:\Users\miran\Desktop\CSCI 234\week 1\ch10ex3\ch10ex3\bin\Debug\ch10ex3.exe.config
+C:\Users\miran\Desktop\CSCI 234\week 1\ch10ex3\ch10ex3\bin\Debug\ch10ex3.exe
+C:\Users\miran\Desktop\CSCI 234\week 1\ch10ex3\ch10ex3\bin\Debug\ch10ex3.pdb
+C:\Users\miran\Desktop\CSCI 234\week 1\ch10ex3\ch10ex3\obj\Debug\ch10ex3.csproj.AssemblyReference.cache
+C:\Users\miran\Desktop\CSCI 234\week 1\ch10ex3\ch10ex3\obj\Debug\ch10ex3.csproj.CoreCompileInputs.cache
+C:\Users\miran\Desktop\CSCI 234\week 1\ch10ex3\ch10ex3\obj\Debug\ch10ex3.exe
+C:\Users\miran\Desktop\CSCI 234\week 1\ch10ex3\ch10ex3\obj\Debug\ch10ex3.pdb
+C:\Users\miran\Desktop\CSCI 234\Week 1\Week 1 Codes\ch10ex3\ch10ex3\bin\Debug\ch10ex3.exe.config
+C:\Users\miran\Desktop\CSCI 234\Week 1\Week 1 Codes\ch10ex3\ch10ex3\bin\Debug\ch10ex3.exe
+C:\Users\miran\Desktop\CSCI 234\Week 1\Week 1 Codes\ch10ex3\ch10ex3\bin\Debug\ch10ex3.pdb
+C:\Users\miran\Desktop\CSCI 234\Week 1\Week 1 Codes\ch10ex3\ch10ex3\obj\Debug\ch10ex3.csproj.AssemblyReference.cache
+C:\Users\miran\Desktop\CSCI 234\Week 1\Week 1 Codes\ch10ex3\ch10ex3\obj\Debug\ch10ex3.csproj.CoreCompileInputs.cache
+C:\Users\miran\Desktop\CSCI 234\Week 1\Week 1 Codes\ch10ex3\ch10ex3\obj\Debug\ch10ex3.exe
+C:\Users\miran\Desktop\CSCI 234\Week 1\Week 1 Codes\ch10ex3\ch10ex3\obj\Debug\ch10ex3.pdb
